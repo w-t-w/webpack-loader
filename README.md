@@ -1,2 +1,2 @@
 # webpack-loader
-webpack loader practice
+webpack loader practise
