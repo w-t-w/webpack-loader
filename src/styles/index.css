@@ -1,0 +1,11 @@
+.area_a {
+  width: 200px;
+  height: 200px;
+  background-image: url(../assets/luffy.jpeg?__sprite)
+}
+
+.area_b {
+  width: 200px;
+  height: 200px;
+  background-image: url(../assets/zero.jpeg?__sprite);
+}
